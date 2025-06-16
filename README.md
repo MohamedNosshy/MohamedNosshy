@@ -35,6 +35,7 @@ class Mohamed_Nosshy {
   ];
 }
 ```
+---
 ## 🔥 Highlights
 
 -  ✅ Completed the .NET Backend Development track through the **Digital Egypt Pioneers initiative**
@@ -43,7 +44,7 @@ class Mohamed_Nosshy {
 - 🧩 Never Stop **Learning**
 ---
 
-<h3 align="left">✨ Random Dev Quote::</h3>
+## ✨ Random Dev Quote 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
