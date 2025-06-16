@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Nosshy 👋</h1>
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250px" />
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="px" />
 <h3 align="center">Software Engineer 🧠 | Backend Developer 👨‍💻
 <h4 align="center">I'm currently open to work — don’t miss the chance to connect!🚀 </h4>
 <p align="center">
@@ -49,20 +49,6 @@ class Mohamed_Nosshy {
 </p>
 
 ---
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:mohamednosshy70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/mohamed_nosshy_"><img src="https://img.shields.io/badge/mohamed nosshy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohamed-nosshy-b2187923a"><img src="https://img.shields.io/badge/Mohamed nosshy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mohamed.nosshy.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://snapchat.com/t/Wc86XZTq"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
-<a href="https://twitter.com/MohamedNosshy5">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</p>
 
 ## 🧰 Tech Toolbox
 
